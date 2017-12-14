@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by user on 12/8/17.
-//  Copyright © 2017 user. All rights reserved.
+//  Copyright © 2017 user. All rights reserved..
 //
 
 import UIKit
